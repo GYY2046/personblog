@@ -34,8 +34,8 @@ module.exports = {
                 collapsable: false,
                 sidebarDepth: 1,
                 children: [
-                    ['/pages/something/something1.md', '文章1'],
-                    ['/pages/something/something2.md', '文章2']
+                    ['something1.md', '文章1'],
+                    ['something2.md', '文章2']
 
                 ]
             }, ]
